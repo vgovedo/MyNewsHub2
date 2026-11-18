@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "MyNewsHub",
+    "slug": "mynewshub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": { "image": "./assets/icon.png", "resizeMode": "contain", "backgroundColor": "#1e2a8a" },
+    "android": {
+      "package": "com.mynewshub.app",
+      "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#1e2a8a" }
+    }
+  }
+}
